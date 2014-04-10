@@ -1,0 +1,2 @@
+This text is some text that should be decoded when sent through Ceasar's Cipher coder. When this file is sent
+through, it should then be coded with the designated offset number. In this case, should be 5.
